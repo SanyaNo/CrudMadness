@@ -1,0 +1,10 @@
+com\crud\user\UserDao.class
+com\crud\user\UserDaoH2.class
+com\crud\config\WebAppInitializer.class
+com\crud\user\UsernameConstraintValidator.class
+com\crud\user\User.class
+com\crud\config\WebConfig.class
+com\crud\user\Username.class
+com\crud\user\UserServiceImpl.class
+com\crud\user\UserController.class
+com\crud\user\UserService.class
